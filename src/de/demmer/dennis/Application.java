@@ -8,10 +8,11 @@ public class Application {
 		int[] iArr = new int[20];
 		testMethod();
 		iArr[5] = 250;
-		
 		Item i1 = new Item(123, 9.99, "Mauspad");
 		
 		System.out.println(iArr[2]);
+		
+		
 		
 	}
 	
