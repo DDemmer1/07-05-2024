@@ -1,5 +1,5 @@
 # 07-05-2024
-SS24 - Debuger
+SS24 - Debugger
 
 ### 📝 Aufgabe:
 Debugger Test:
